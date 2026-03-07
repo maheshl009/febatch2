@@ -21,3 +21,17 @@ Question2
 1. create a pipeline in which take input from user
 2. in console output print the value entered by the user
 
+assignment 3 3rd march(jenkins)
+
+1.create a private repository in GitHub and store a Jenkins file in it
+
+2. try to use that Jenkins file in your pipeline
+
+
+(note it will fail as your repo is private)
+
+3. now create credentials in Jenkins for git hub
+
+4. after creating the credentials use that to authenticate.
+
+this time your pipeline will be successful 
